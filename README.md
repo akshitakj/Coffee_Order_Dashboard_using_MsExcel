@@ -1,8 +1,8 @@
 ## Coffee_Order_Dashboard_using_MsExcel
-##### Coffee Sales Dashboard Project Description
+#### Coffee Sales Dashboard Project Description:
 The Coffee Sales Dashboard is an interactive Excel-based tool for visualizing and analyzing coffee sales data. It gives the user a deep insight into sales trends, customer preferences, and market performance. This project suits businesses looking to make data-driven decisions and improve their sales strategies.
 
-##### Key Features:
+#### Key Features:
 - **Sales Analysis Over Time:**
 Total sales trends over multiple years are visualized and segmented by coffee types, such as Arabica, Robusta, Excelsa, and Liberica.
 
